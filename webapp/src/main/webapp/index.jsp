@@ -3,7 +3,7 @@
     <h1>NEW USER Register using Ansible(another update)!!!</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
-    <label for="email"><b>NAME</b></label>
+    <label for="email"><b>ENTER NAME</b></label>
     <input type="text" placeholder="Enter NAME" name="NAME" id="NAME" required>
     <br>
 
